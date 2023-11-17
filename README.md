@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saroj8
-- 👀 I’m interested in wildlife, climate change and remote sensing
+- 👀 I’m interested in Forest ecology and management, wildlife ecology, climate change and remote sensing
 - 🌱 I’m currently learning R data analyst course in datacamp
 - 💞️ I’m looking to collaborate on some projects related to ecology of plants and animals
 - 📫 How to reach me sarojkndl@gmail.com
